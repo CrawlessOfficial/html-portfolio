@@ -1,0 +1,30 @@
+
+
+#personalwebsite{
+    background-color: #EEE0C9 ;
+    width:300px;
+    border-radius: 20px;
+    font-family: 'PT Sans', sans-serif;
+    padding-left: 1%;
+}
+
+body{
+    background-color:#F1F0E8;
+    font-family: 'PT Sans', sans-serif;
+}
+
+#myimage{
+    margin: 5px;
+    object-position: right top;
+    border-radius: 20px;
+    float: right;
+    transform: translateY(-100px);
+}
+
+#introduction{
+    background-color: #EEE0C9;
+    width:1100px;
+    border-radius:20px;
+    padding: 1%;
+}
+
