@@ -51,18 +51,18 @@ body{
     margin: 50px;
     transform: translateX(70%);
     position: relative; 
-    top: -310px;
+    top: -340px;
     left: -150px;
 }
 
 #linkedintext{
     transform: translateY(45px);
     position: relative;
-    right: -80px;
+    right: -85px;
     
 }
 
 #linkedinpng{
     position: relative;
-    top: 2px;
+    
 }
